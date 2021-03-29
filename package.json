@@ -1,7 +1,7 @@
 {
   "name": "svelte-logoipsum",
   "version": "1.0.0",
-  "description": "",
+  "description": "Svelte components for Logoipsum logo placeholders.",
   "main": "src/index.js",
   "svelte": "src/index.js",
   "files": [
@@ -10,9 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Sean Mullen",
-  "license": "ISC",
+  "keywords": ["Logo", "Logoipsum", "Svelte", "Component", "Placeholder", "SVG"],
+  "author": "Sean Mullen <sean@srmullen.com>",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.2.1",
     "rollup": "^2.43.1",
