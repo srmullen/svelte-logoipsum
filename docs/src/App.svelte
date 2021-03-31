@@ -46,13 +46,13 @@
 		min-width: 240px;
 		margin: 12px;
 		padding: 24px;
-		border-radius: 6px;
-		
+		border-radius: 6px;	
 	}
 
 	.logo span {
 		display: block;
 		margin-bottom: 1rem;
+		font-family: monospace;
 	}
 
 	@media (min-width: 640px) {
