@@ -3,6 +3,8 @@ svelte-logoipsum
 
 Svelte components for the beautiful [Logoipsum placeholders](https://logoipsum.com/).
 
+[See the components here.](https://srmullen.github.io/svelte-logoipsum/)
+
 ## Installation
 
 With npm
@@ -28,7 +30,3 @@ All components expose properties to change each color. Most logos are just one c
 ## Acknowledgements
 
 All logo designs are from [logoipsum by SignalSupply](https://logoipsum.com/).
-
-### TODO
-
-- Github page for showing component usage.
